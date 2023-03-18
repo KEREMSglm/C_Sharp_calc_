@@ -1,6 +1,6 @@
-﻿namespace KeremGP1
+﻿namespace CALCULATOR
 {
-    partial class CALCULATOR
+    partial class CalculatorForm
     {
         /// <summary>
         ///  Required designer variable.

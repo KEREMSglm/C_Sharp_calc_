@@ -1,13 +1,13 @@
-namespace KeremGP1
+namespace CALCULATOR
 {
-    public partial class CALCULATOR : Form
+    public partial class CalculatorForm : Form
     {
 
         double sayi1;
         double sayi2;
         string islem = "";
         Boolean esitFlag = false;
-        public CALCULATOR()
+        public CalculatorForm()
         {
             InitializeComponent();
         }
