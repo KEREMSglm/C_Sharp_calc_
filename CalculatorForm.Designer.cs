@@ -18,7 +18,7 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
-            Console.WriteLine("Dispose Calisdi");
+            Console.WriteLine("Dispose Calisdi.");
         }
 
         #region Windows Form Designer generated code
