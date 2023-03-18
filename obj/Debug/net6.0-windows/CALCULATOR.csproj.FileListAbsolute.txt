@@ -1,0 +1,7 @@
+C:\Users\kerem\source\repos\KeremGP1\obj\Debug\net6.0-windows\CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\KeremGP1\obj\Debug\net6.0-windows\KeremGP1.CALCULATOR.resources
+C:\Users\kerem\source\repos\KeremGP1\obj\Debug\net6.0-windows\CALCULATOR.csproj.GenerateResource.cache
+C:\Users\kerem\source\repos\KeremGP1\obj\Debug\net6.0-windows\CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerem\source\repos\KeremGP1\obj\Debug\net6.0-windows\CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\kerem\source\repos\KeremGP1\obj\Debug\net6.0-windows\CALCULATOR.AssemblyInfo.cs
+C:\Users\kerem\source\repos\KeremGP1\obj\Debug\net6.0-windows\CALCULATOR.csproj.CoreCompileInputs.cache
